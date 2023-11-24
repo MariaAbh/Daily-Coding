@@ -12,6 +12,8 @@ The following present solutions to some exercises from daily coding problems:
 * Finding the buying stock price to gain the maximum amount (iterative + recursive)
 * Summing two trees
 * Using functions as arguments only to return first and second pair
+* Largest continuous subarray sum
+* Number of paths in a grid starting from top left to reach bottom right
 
 <a id="technologies"></a>
 ## Technologies
